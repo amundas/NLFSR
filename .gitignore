@@ -1,0 +1,4 @@
+vivado/
+sim_build/
+__pycache__/
+.vscode/

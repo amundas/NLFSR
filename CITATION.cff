@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: An FPGA Accelerator for NLFSR Period Testing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Amund
+    family-names: Askeland
+    affiliation: University of Bergen
+    orcid: 'https://orcid.org/0009-0007-0682-3955'
+repository-code: 'https://www.github.com/amundas/NLFSR'
+license: GPL-3.0
